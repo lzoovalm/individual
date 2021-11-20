@@ -349,7 +349,7 @@
         android:layout_height="63dp"
         android:background="#bfcdcc"
         android:drawableBottom="@color/teal_200"
-        android:hint="Lazo Ortiz Valeria Montserrat 5IM9"
+        android:hint="Lazo Ortiz Valeria Montserrat"
         android:textColor="#ece4dd"
         android:textColorHint="#939090"
         app:layout_constraintBottom_toBottomOf="parent"
